@@ -25,8 +25,17 @@ This repository serves as a curated archive of my hands-on explorations with the
 
 Feel free to browse, use, modify, or adapt any of these examples for your own purposes — no restrictions.
 
----
+# License
 
-Happy hacking!
+[MIT License](LICENSE), obvously. No enemies, only friends.
+
+---
+<div align="center">
+
+Let's grab a Monster Mango Loco and create crazy things with microcontrollers!
+
+<img align="right" width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/8cdf7eb2-7d1e-4ee5-a1d7-70702703bbca" />
+
+</div>
 
 
